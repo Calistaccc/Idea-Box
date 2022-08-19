@@ -209,7 +209,8 @@ about: "该 main.md 文件记录每个人 Pull Requset 的内容。请参考下�
 | 虚拟活动（Virtual Events） | 元宇宙（Metaverse）                       | 元 K 歌 MetaKTV｜https://www.agora.io/cn/meta-ktv                          |    | 
 | 虚拟活动（Virtual Events） | 元宇宙（Metaverse）                       | 元语聊 MetaChat｜https://www.agora.io/cn/meta-chat                          |    | 
 | 虚拟活动（Virtual Events） | 元宇宙（Metaverse）                       | 互动游戏 Meta Interactive Game｜https://www.agora.io/cn/meta-igame           |    | 
-| 虚拟活动（Virtual Events） | 元宇宙（Metaverse）                       | 元直播 MetaLive｜https://www.agora.io/cn/meta-live                          |    | 
+| 虚拟活动（Virtual Events） | 元宇宙（Metaverse）                       | 元直播 MetaLive｜https://www.agora.io/cn/meta-live                          |    |
+| 虚拟活动（Virtual Events） | 元宇宙（Metaverse）                       | Web端RGB摄像头动捕开源方案｜https://github.com/yeemachine/kalidokit           |    | 
 | 虚拟活动（Virtual Events） | 元宇宙（Metaverse）                       | 派对岛｜https://paiduidao.com/                                              |    | 
 | 虚拟活动（Virtual Events） | 歌声合成引擎                               | ACE Studio｜https://ace-studio.timedomain.tech                           |    | 
 | 虚拟活动（Virtual Events） | 元宇宙（Metaverse）                       | 啫喱｜http://www.1dyd.com/                                                 |    | 
