@@ -232,5 +232,8 @@ about: "该 main.md 文件记录每个人 Pull Requset 的内容。请参考下�
 | 更多                   | 视频播放器                                | 射手影音播放器｜https://github.com/chiflix/splayerx                             |    | 
 | 更多                   | 视频播放器                                | electron-player｜https://github.com/c10342/player                        |    | 
 | 更多                   | 视频播放器                                | SGPlayer｜https://github.com/libobjc/SGPlayer                            |    | 
+| 更多                   | 视频播放器                                | Vlc｜https://github.com/videolan/vlc                            | 20220819   | 
+| 更多                   | 视频播放器                                | Dash.js｜https://github.com/Dash-Industry-Forum/dash.js                            | 20220819   | 
+| 更多                   | 视频编辑器                                | Openshot Qt｜https://github.com/OpenShot/openshot-qt                            | 20220819   | 
 | 更多                   | Web3.0                               | Meson Network｜https://meson.network/                                    |    | 
 | 更多                   | 录音软件                                 | 开源项目 Audacity｜https://github.com/audacity/audacity                      | 20220812 | 
