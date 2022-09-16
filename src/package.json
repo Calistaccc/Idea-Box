@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/kylezhang/test-tmp#readme",
   "dependencies": {
+    "csv-to-markdown-table": "^1.1.0",
     "lodash": "^4.17.21",
     "read-excel-file": "^5.2.28"
   }

@@ -64,6 +64,9 @@ about: "该 main.md 文件记录每个人 Pull Requset 的内容。请参考下�
 | 社交                   | 视频群聊（Group Video）                    | 声网视频通话 API｜https://www.agora.io/cn/videocall                            |    | 
 | 社交                   | 一起看电影（Watch Party）                   | 微光｜http://www.vlightv.com/                                              |    | 
 | 社交                   | 一起看电影（Watch Party）                   | 窝窝｜https://www.wewave.com.cn/                                           |    | 
+| 社交                   | 一起看电影（Watch Party）                   | Syncplay｜https ://github.com/Syncplay/syncplay                           | 20220916 | 
+| 社交                   | 一起看电影（Watch Party）                   | Metastream｜https://github.com/samuelmaddock/metastream                   | 20220916 | 
+| 社交                   | 一起看电影（Watch Party）                   | n.eko｜https://github.com/m1k1o/neko                                      | 20220916 | 
 | 社交                   | 一起看比赛（Fan Engagement）                |                                                                         |    | 
 | 社交                   | VR社交                                 | Horizon Worlds｜https://www.oculus.com/horizon-worlds/                   |    | 
 | 游戏                   | 游戏语音（In-Game Voice）                  | 声网语音通话 API｜https://www.agora.io/cn/voicecall                            |    | 
@@ -79,6 +82,7 @@ about: "该 main.md 文件记录每个人 Pull Requset 的内容。请参考下�
 | 游戏                   | 一站到底/直播答题（Trivial）                   |                                                                         |    | 
 | 游戏                   | 云游戏（Cloud Gaming）                    | 腾讯先锋｜https://gamer.qq.com/                                              |    | 
 | 游戏                   | 直播间互动游戏                              | Sud 互动游戏平台｜https://www.agora.io/cn/marketplace/sud                      |    | 
+| 游戏                   | 直播间互动游戏                              | Hyperbeam｜https://hyperbeam.com/                                         |          | 
 | 游戏                   | Decentralized Gaming（区块链游戏）          | Nine Chronicles｜https://nine-chronicles.com/                            |    | 
 | 直播                   | 直播拍卖（Live Auction）                   |                                                                         |    | 
 | 直播                   | 一起购物                                 |                                                                         |    | 
@@ -91,6 +95,7 @@ about: "该 main.md 文件记录每个人 Pull Requset 的内容。请参考下�
 | 直播                   | 电竞直播（eSports）                        |                                                                         |    | 
 | 直播                   | 鉴宝直播                                 |                                                                         |    | 
 | 直播                   | 虚拟主播                                 | 元直播 MetaLive｜https://www.agora.io/cn/meta-live                          |    | 
+| 直播                   | 虚拟主播                                 | PaddleBoBo｜https://github.com/JiehangXie/PaddleBoBo                      |          | 
 | 直播                   | PK直播                                 |                                                                         |    | 
 | 直播                   | 二次元直播                                | 元直播 MetaLive｜https://www.agora.io/cn/meta-live                          |    | 
 | 直播                   | 云演唱会                                 |                                                                         |    | 
@@ -156,11 +161,20 @@ about: "该 main.md 文件记录每个人 Pull Requset 的内容。请参考下�
 | 医疗                   | 远程慢病随诊                               |                                                                         |    | 
 | 医疗                   | 医疗机器人                                |                                                                         |    | 
 | 医疗                   | 医美直播                                 |                                                                         |    | 
-| 企业协作                 | 综合协同办公（Enterprise Collaboration）     |                                                                         |    | 
+| 企业协作                 | 综合协同办公（Enterprise Collaboration）     | collabedit丨https://collabedit.com/                                       | 20220916 | 
+| 企业协作                 | 综合协同办公（Enterprise Collaboration）     | Codeanywhere丨https://codeanywhere.com/                                   | 20220916 | 
+| 企业协作                 | 综合协同办公（Enterprise Collaboration）     | 妙记多Mojidoc丨https://www.mojidoc.com                                       | 20220916 | 
+| 企业协作                 | 综合协同办公（Enterprise Collaboration）     | SpatialChat丨https://www.spatial.chat/                                    | 20220916 | 
+| 企业协作                 | 综合协同办公（Enterprise Collaboration）     | ehlo丨https://www.ehlo.space/                                             | 20220829 | 
 | 企业协作                 | 视频会议（B2B Video Platform）             | Cmeeting｜https://www.agora.io/cn/marketplace/cmeeting                   |    | 
+| 企业协作                 | 视频会议（B2B Video Platform）             | Room.Cafe｜https://github.com/aonesuite/room.cafe                         | 20220916 | 
+| 企业协作                 | 视频会议                                 | Jitsi Meet｜https://github.com/jitsi/jitsi-meet                           |          | 
+| 企业协作                 | 视频会议                                 | Bigbluebutton｜ https://github.com/bigbluebutton/bigbluebutton            |          | 
 | 企业协作                 | 远程培训（Enterprise Training）            | POPSTAGE —— Create your dream courses｜https://popstage.com/             | 20220812 | 
 | 企业协作                 | 远程培训（Enterprise Training）            | BeeArt 蜜罐｜https://www.beeart.com/academy             | 20220812 | 
-| 企业协作                 | 远程招聘（Online Interview）               |                                                                         |    | 
+| 企业协作                 | 远程招聘（Online Interview）               | CodingView.io丨https://codingview.io/                                     | 20220916 | 
+| 企业协作                 | 远程招聘（Online Interview）               | Codeanywhere丨https://codeanywhere.com/                                   | 20220916 | 
+| 企业协作                 | 远程招聘（Online Interview）               | ShowMeBug丨https://www.showmebug.com/                                     | 20220916 | 
 | 企业协作                 | 远程专家指导                               |                                                                         |    | 
 | 企业协作                 | 远程监工/交付                              |                                                                         |    | 
 | 企业协作                 | 智能交互平板                               |                                                                         |    | 
@@ -200,11 +214,15 @@ about: "该 main.md 文件记录每个人 Pull Requset 的内容。请参考下�
 | 虚拟活动（Virtual Events） | 线上活动（Live Events）                    | VS·work 元宇宙引擎｜https://www.vswork.com/                                   |    | 
 | 虚拟活动（Virtual Events） | 线上活动（Live Events）                    | Vland 云现场｜https://www.vland.live/                                       |    | 
 | 虚拟活动（Virtual Events） | 线上研讨会（Webinar）                       | VS·work 元宇宙引擎｜https://www.vswork.com/                                   |    | 
-| 虚拟活动（Virtual Events） | 线上研讨会（Webinar）                       | Vland 云现场｜https://www.vland.live/                                       |    | 
+| 虚拟活动（Virtual Events） | 线上研讨会（Webinar）                       | Vland 云现场｜https://www.vland.live/                                        | 20220829 | 
+| 虚拟活动（Virtual Events） | 虚拟贸易展会（Virtual Trade Show）           | Vertex Gallery 虚拟画廊｜https://vertexgallery.pavece.com/                    | 20220829 | 
+| 虚拟活动（Virtual Events） | 虚拟贸易展会（Virtual Trade Show）           | Infinite-Art-Gallery丨https://github.com/Brazil-0034/Infinite-Art-Gallery | 20220829 | 
 | 虚拟活动（Virtual Events） | 虚拟贸易展会（Virtual Trade Show）           | VS·work 元宇宙引擎｜https://www.vswork.com/                                   |    | 
 | 虚拟活动（Virtual Events） | 虚拟演唱会（Virtual Concerts）              | AvatarX 智能虚拟人平台｜https://www.faceunity.com/avatarx.html                  |    | 
 | 虚拟活动（Virtual Events） | 虚拟偶像演唱会                              | AvatarX 智能虚拟人平台｜https://www.faceunity.com/avatarx.html                  |    | 
 | 虚拟活动（Virtual Events） | Virtual Conference（虚拟会议）             | tatame｜http://www.zodme.com/                                            |    | 
+| 虚拟活动（Virtual Events） | Virtual Conference（虚拟会议）             | ehlo丨https://www.ehlo.space/                                             | 20220829 | 
+| 虚拟活动（Virtual Events） | Virtual Conference（虚拟会议）             | Spot丨https://www.spotvirtual.com/                                        | 20220812 | 
 | 虚拟活动（Virtual Events） | Hybrid Events（线上线下混合性展会）             | tatame｜http://www.zodme.com/                                            |    | 
 | 虚拟活动（Virtual Events） | 元宇宙（Metaverse）                       | 元 K 歌 MetaKTV｜https://www.agora.io/cn/meta-ktv                          |    | 
 | 虚拟活动（Virtual Events） | 元宇宙（Metaverse）                       | 元语聊 MetaChat｜https://www.agora.io/cn/meta-chat                          |    | 
@@ -215,6 +233,7 @@ about: "该 main.md 文件记录每个人 Pull Requset 的内容。请参考下�
 | 虚拟活动（Virtual Events） | 歌声合成引擎                               | ACE Studio｜https://ace-studio.timedomain.tech                           |    | 
 | 虚拟活动（Virtual Events） | 元宇宙（Metaverse）                       | 啫喱｜http://www.1dyd.com/                                                 |    | 
 | 虚拟活动（Virtual Events） | 元宇宙（Metaverse）                       | Spot｜https://www.spotvirtual.com/                                                 | 20220812 | 
+| 虚拟活动（Virtual Events） | 元宇宙（Metaverse）                       | kalidoface｜https://github.com/yeemachine/kalidokit                       | 20220829 | 
 | 体育                   | 体育远程加油                               |                                                                         |    | 
 | 体育                   | Sports Talkshow（体育脱口秀）               |                                                                         |    | 
 | 体育                   | 云钓鱼                                  |                                                                         |    | 
@@ -234,6 +253,7 @@ about: "该 main.md 文件记录每个人 Pull Requset 的内容。请参考下�
 | 更多                   | 视频播放器                                | SGPlayer｜https://github.com/libobjc/SGPlayer                            |    | 
 | 更多                   | 视频播放器                                | Vlc｜https://github.com/videolan/vlc                            | 20220819   | 
 | 更多                   | 视频播放器                                | Dash.js｜https://github.com/Dash-Industry-Forum/dash.js                            | 20220819   | 
+| 更多                   | 视频播放器                                | 开源项目 Gsyvideoplayer｜https://github.com/CarGuo/GSYVideoPlayer             | 20220826 | 
 | 更多                   | 视频播放器                                 | 开源项目 Zy Player｜https://github.com/cuiocean/ZY-Player                     | 20220826 | 
 | 更多                   | 视频播放器                                 | 开源项目 Gsyvideoplayer｜https://github.com/CarGuo/GSYVideoPlayer                     | 20220826 | 
 | 更多                   | 视频编辑器                                | Openshot Qt｜https://github.com/OpenShot/openshot-qt                            | 20220819   | 

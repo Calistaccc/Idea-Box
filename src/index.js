@@ -76,7 +76,7 @@ readXlsxFile(json_file_path, { schema }).then(({ rows, errors }) => {
     })
 
     // format end, write new json data to file.
-    fs.writeFile('../data/r.json', JSON.stringify(l1_keys_JSON), function (error) {
+    fs.writeFile('../data/data.json', JSON.stringify(l1_keys_JSON), function (error) {
       console.log('wrote done!');
     })
 
