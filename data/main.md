@@ -239,4 +239,5 @@ about: "该 main.md 文件记录每个人 Pull Requset 的内容。请参考下�
 | 更多                   | 视频编辑器                                | Openshot Qt｜https://github.com/OpenShot/openshot-qt                            | 20220819   | 
 | 更多                   | Web3.0                               | Meson Network｜https://meson.network/                                    |    | 
 | 更多                   | 录音软件                                 | 开源项目 Audacity｜https://github.com/audacity/audacity                      | 20220812 | 
-| 更多                   | iOS合成器                                 | 开源项目 Audiokitsynthone｜https://github.com/AudioKit/AudioKitSynthOne                     | 20220826 | 
+| 更多                   | iOS合成器                                 | 开源项目 Audiokitsynthone｜https://github.com/AudioKit/AudioKitSynthOne                     | 20220916 | 
+| 企业协作                 | 协同工具            | 妙记多 Mojidoc ｜ https://www.mojidoc.com/?utm_medium=internal&utm_source=shengwang            
