@@ -46,7 +46,14 @@ readXlsxFile(json_file_path, { schema }).then(({ rows, errors }) => {
             
             r.children = _.map(g3, function (vvv, kkk) {
 
-              let hyperlink = kkk.split("｜");
+              let v_split = "｜"
+              let hyperlink = ""
+              if (_.includes(kkk, v_split)) {
+                hyperlink = kkk.split(v_split);
+              } else { 
+                v_split = "丨"
+                hyperlink = kkk.split(v_split);
+              }
 
               return {
                 "value": 100,
