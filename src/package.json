@@ -21,6 +21,6 @@
   "dependencies": {
     "csv-to-markdown-table": "^1.1.0",
     "lodash": "^4.17.21",
-    "read-excel-file": "^5.2.28"
+    "read-excel-file": "^5.5.0"
   }
 }
